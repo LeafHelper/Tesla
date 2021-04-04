@@ -160,7 +160,7 @@ wait(0.5)
 
 TweenService:Create(char.HumanoidRootPart, TweenInfo.new(0.5), {CFrame = CFrame.new(-1161.34119, 626.110962, 709.259705, 1, 0, 0, 0, 1, 0, 0, 0, 1) * CFrame.new(0,3,0)}):Play()
 
-wait(0.5)
+wait(1)
 
 TweenService:Create(char.HumanoidRootPart, TweenInfo.new(0.5), {CFrame = CFrame.new(-1121.30103, 628.661072, 767.649536, -0.819150746, 0, 0.573580801, 0, 1, 0, -0.573580801, 0, -0.819150746) * CFrame.new(0,3,0)}):Play()
 
@@ -168,7 +168,7 @@ wait(0.5)
 
 TweenService:Create(char.HumanoidRootPart, TweenInfo.new(0.5), {CFrame = CFrame.new(-1161.34119, 626.110962, 709.259705, 1, 0, 0, 0, 1, 0, 0, 0, 1) * CFrame.new(0,3,0)}):Play()
 
-wait(0.5)
+wait(1)
 
 TweenService:Create(char.HumanoidRootPart, TweenInfo.new(0.5), {CFrame = CFrame.new(-1406.20129, 628.661072, 699.24939, -0.945518672, 0, 0.32557267, 0, 1, 0, -0.32557267, 0, -0.945518672) * CFrame.new(0,3,0)}):Play()
 
