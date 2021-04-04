@@ -6,188 +6,188 @@ local TweenService = game:GetService("TweenService")
 
 game.Players.LocalPlayer.Character.Humanoid:ChangeState(11)
 
-TweenService:Create(char.HumanoidRootPart, TweenInfo.new(2), {CFrame = game:GetService("Workspace").Stages["1"].Hitbox.CFrame * CFrame.new(0,3,0)}):Play()
+TweenService:Create(char.HumanoidRootPart, TweenInfo.new(0.5), {CFrame = game:GetService("Workspace").Stages["1"].Hitbox.CFrame * CFrame.new(0,3,0)}):Play()
 
-wait(3)
+wait(0.5)
 
-TweenService:Create(char.HumanoidRootPart, TweenInfo.new(2), {CFrame = game:GetService("Workspace").Stages["2"].Hitbox.CFrame * CFrame.new(0,3,0)}):Play()
+TweenService:Create(char.HumanoidRootPart, TweenInfo.new(0.5), {CFrame = game:GetService("Workspace").Stages["2"].Hitbox.CFrame * CFrame.new(0,3,0)}):Play()
 
-wait(3)
+wait(0.5)
 
-TweenService:Create(char.HumanoidRootPart, TweenInfo.new(2), {CFrame = game:GetService("Workspace").Stages["3"].Hitbox.CFrame * CFrame.new(0,8,0)}):Play()
+TweenService:Create(char.HumanoidRootPart, TweenInfo.new(0.5), {CFrame = game:GetService("Workspace").Stages["3"].Hitbox.CFrame * CFrame.new(0,8,0)}):Play()
 
-wait(3)
+wait(0.5)
 
-TweenService:Create(char.HumanoidRootPart, TweenInfo.new(2), {CFrame = game:GetService("Workspace").Stages["3"].Hitbox.CFrame * CFrame.new(0,3,0)}):Play()
+TweenService:Create(char.HumanoidRootPart, TweenInfo.new(0.5), {CFrame = game:GetService("Workspace").Stages["3"].Hitbox.CFrame * CFrame.new(0,3,0)}):Play()
 
-wait(3)
+wait(0.5)
 
-TweenService:Create(char.HumanoidRootPart, TweenInfo.new(2), {CFrame = game:GetService("Workspace").Stages["4"].Hitbox.CFrame * CFrame.new(0,3,0)}):Play()
+TweenService:Create(char.HumanoidRootPart, TweenInfo.new(0.5), {CFrame = game:GetService("Workspace").Stages["4"].Hitbox.CFrame * CFrame.new(0,3,0)}):Play()
 
-wait(3)
+wait(0.5)
 
-TweenService:Create(char.HumanoidRootPart, TweenInfo.new(2), {CFrame = game:GetService("Workspace").Stages["5"].Hitbox.CFrame * CFrame.new(0,3,0)}):Play()
+TweenService:Create(char.HumanoidRootPart, TweenInfo.new(0.5), {CFrame = game:GetService("Workspace").Stages["5"].Hitbox.CFrame * CFrame.new(0,3,0)}):Play()
 
-wait(3)
+wait(0.5)
 
-TweenService:Create(char.HumanoidRootPart, TweenInfo.new(2), {CFrame = game:GetService("Workspace").Stages["6"].Hitbox.CFrame * CFrame.new(0,15,0)}):Play()
+TweenService:Create(char.HumanoidRootPart, TweenInfo.new(0.5), {CFrame = game:GetService("Workspace").Stages["6"].Hitbox.CFrame * CFrame.new(0,15,0)}):Play()
 
-wait(3)
+wait(0.5)
 
-TweenService:Create(char.HumanoidRootPart, TweenInfo.new(2), {CFrame = game:GetService("Workspace").Stages["6"].Hitbox.CFrame * CFrame.new(0,3,0)}):Play()
+TweenService:Create(char.HumanoidRootPart, TweenInfo.new(0.5), {CFrame = game:GetService("Workspace").Stages["6"].Hitbox.CFrame * CFrame.new(0,3,0)}):Play()
 
-wait(3)
+wait(0.5)
 
-TweenService:Create(char.HumanoidRootPart, TweenInfo.new(2), {CFrame = game:GetService("Workspace").Stages["7"].Hitbox.CFrame * CFrame.new(0,5,0)}):Play()
+TweenService:Create(char.HumanoidRootPart, TweenInfo.new(0.5), {CFrame = game:GetService("Workspace").Stages["7"].Hitbox.CFrame * CFrame.new(0,5,0)}):Play()
 
-wait(3)
+wait(0.5)
 
-TweenService:Create(char.HumanoidRootPart, TweenInfo.new(2), {CFrame = game:GetService("Workspace").Stages["7"].Hitbox.CFrame * CFrame.new(0,3,0)}):Play()
+TweenService:Create(char.HumanoidRootPart, TweenInfo.new(0.5), {CFrame = game:GetService("Workspace").Stages["7"].Hitbox.CFrame * CFrame.new(0,3,0)}):Play()
 
-wait(3)
+wait(0.5)
 
-TweenService:Create(char.HumanoidRootPart, TweenInfo.new(2), {CFrame = game:GetService("Workspace").Stages["8"].Hitbox.CFrame * CFrame.new(0,50,0)}):Play()
+TweenService:Create(char.HumanoidRootPart, TweenInfo.new(0.5), {CFrame = game:GetService("Workspace").Stages["8"].Hitbox.CFrame * CFrame.new(0,50,0)}):Play()
 
-wait(3)
+wait(0.5)
 
-TweenService:Create(char.HumanoidRootPart, TweenInfo.new(2), {CFrame = game:GetService("Workspace").Stages["8"].Hitbox.CFrame * CFrame.new(0,3,0)}):Play()
+TweenService:Create(char.HumanoidRootPart, TweenInfo.new(0.5), {CFrame = game:GetService("Workspace").Stages["8"].Hitbox.CFrame * CFrame.new(0,3,0)}):Play()
 
-wait(3)
+wait(0.5)
 
-TweenService:Create(char.HumanoidRootPart, TweenInfo.new(2), {CFrame = game:GetService("Workspace").Stages["9"].Hitbox.CFrame * CFrame.new(0,3,0)}):Play()
+TweenService:Create(char.HumanoidRootPart, TweenInfo.new(0.5), {CFrame = game:GetService("Workspace").Stages["9"].Hitbox.CFrame * CFrame.new(0,3,0)}):Play()
 
-wait(3)
+wait(0.5)
 
-TweenService:Create(char.HumanoidRootPart, TweenInfo.new(2), {CFrame = game:GetService("Workspace").Stages["10"].Hitbox.CFrame * CFrame.new(0,3,0)}):Play()
+TweenService:Create(char.HumanoidRootPart, TweenInfo.new(0.5), {CFrame = game:GetService("Workspace").Stages["10"].Hitbox.CFrame * CFrame.new(0,3,0)}):Play()
 
-wait(3)
+wait(0.5)
 
-TweenService:Create(char.HumanoidRootPart, TweenInfo.new(2), {CFrame = game:GetService("Workspace").Stages["11"].Hitbox.CFrame * CFrame.new(0,100,0)}):Play()
+TweenService:Create(char.HumanoidRootPart, TweenInfo.new(0.5), {CFrame = game:GetService("Workspace").Stages["11"].Hitbox.CFrame * CFrame.new(0,100,0)}):Play()
 
-wait(3)
+wait(0.5)
 
-TweenService:Create(char.HumanoidRootPart, TweenInfo.new(2), {CFrame = game:GetService("Workspace").Stages["11"].Hitbox.CFrame * CFrame.new(0,3,0)}):Play()
+TweenService:Create(char.HumanoidRootPart, TweenInfo.new(0.5), {CFrame = game:GetService("Workspace").Stages["11"].Hitbox.CFrame * CFrame.new(0,3,0)}):Play()
 
-wait(3)
+wait(0.5)
 
-TweenService:Create(char.HumanoidRootPart, TweenInfo.new(2), {CFrame = game:GetService("Workspace").Stages["12"].Hitbox.CFrame * CFrame.new(0,50,0)}):Play()
+TweenService:Create(char.HumanoidRootPart, TweenInfo.new(0.5), {CFrame = game:GetService("Workspace").Stages["12"].Hitbox.CFrame * CFrame.new(0,50,0)}):Play()
 
-wait(3)
+wait(0.5)
 
-TweenService:Create(char.HumanoidRootPart, TweenInfo.new(2), {CFrame = game:GetService("Workspace").Stages["12"].Hitbox.CFrame * CFrame.new(0,3,0)}):Play()
+TweenService:Create(char.HumanoidRootPart, TweenInfo.new(0.5), {CFrame = game:GetService("Workspace").Stages["12"].Hitbox.CFrame * CFrame.new(0,3,0)}):Play()
 
-wait(3)
+wait(0.5)
 
-TweenService:Create(char.HumanoidRootPart, TweenInfo.new(2), {CFrame = game:GetService("Workspace").Stages["13"].Hitbox.CFrame * CFrame.new(0,3,0)}):Play()
+TweenService:Create(char.HumanoidRootPart, TweenInfo.new(0.5), {CFrame = game:GetService("Workspace").Stages["13"].Hitbox.CFrame * CFrame.new(0,3,0)}):Play()
 
-wait(3)
+wait(0.5)
 
-TweenService:Create(char.HumanoidRootPart, TweenInfo.new(2), {CFrame = game:GetService("Workspace").Stages["14"].Hitbox.CFrame * CFrame.new(0,50,0)}):Play()
+TweenService:Create(char.HumanoidRootPart, TweenInfo.new(0.5), {CFrame = game:GetService("Workspace").Stages["14"].Hitbox.CFrame * CFrame.new(0,50,0)}):Play()
 
-wait(3)
+wait(0.5)
 
-TweenService:Create(char.HumanoidRootPart, TweenInfo.new(2), {CFrame = game:GetService("Workspace").Stages["14"].Hitbox.CFrame * CFrame.new(0,3,0)}):Play()
+TweenService:Create(char.HumanoidRootPart, TweenInfo.new(0.5), {CFrame = game:GetService("Workspace").Stages["14"].Hitbox.CFrame * CFrame.new(0,3,0)}):Play()
 
-wait(3)
+wait(0.5)
 
-TweenService:Create(char.HumanoidRootPart, TweenInfo.new(2), {CFrame = game:GetService("Workspace").Stages["15"].Hitbox.CFrame * CFrame.new(0,3,0)}):Play()
+TweenService:Create(char.HumanoidRootPart, TweenInfo.new(0.5), {CFrame = game:GetService("Workspace").Stages["15"].Hitbox.CFrame * CFrame.new(0,3,0)}):Play()
 
-wait(3)
+wait(0.5)
 
-TweenService:Create(char.HumanoidRootPart, TweenInfo.new(2), {CFrame = game:GetService("Workspace").Stages["16"].Hitbox.CFrame * CFrame.new(0,3,0)}):Play()
+TweenService:Create(char.HumanoidRootPart, TweenInfo.new(0.5), {CFrame = game:GetService("Workspace").Stages["16"].Hitbox.CFrame * CFrame.new(0,3,0)}):Play()
 
 wait(4)
 
-TweenService:Create(char.HumanoidRootPart, TweenInfo.new(2), {CFrame = CFrame.new(-1371.35693, 628.801208, 760.911194, 0.965933263, 0, 0.258819878, 0, 1, 0, -0.258819878, 0, 0.965933263) * CFrame.new(0,3,0)}):Play()
+TweenService:Create(char.HumanoidRootPart, TweenInfo.new(0.5), {CFrame = CFrame.new(-1371.35693, 628.801208, 760.911194, 0.965933263, 0, 0.258819878, 0, 1, 0, -0.258819878, 0, 0.965933263) * CFrame.new(0,3,0)}):Play()
 
-wait(3)
+wait(0.5)
 
-TweenService:Create(char.HumanoidRootPart, TweenInfo.new(2), {CFrame = CFrame.new(-1161.34119, 626.110962, 709.259705, 1, 0, 0, 0, 1, 0, 0, 0, 1) * CFrame.new(0,3,0)}):Play()
+TweenService:Create(char.HumanoidRootPart, TweenInfo.new(0.5), {CFrame = CFrame.new(-1161.34119, 626.110962, 709.259705, 1, 0, 0, 0, 1, 0, 0, 0, 1) * CFrame.new(0,3,0)}):Play()
 
-wait(3)
+wait(0.5)
 
-TweenService:Create(char.HumanoidRootPart, TweenInfo.new(2), {CFrame = CFrame.new(-1259.28015, 640.372925, 609.985413, 0.838676929, 8.62397937e-05, 0.544638395, 0.0474141315, 0.996191859, -0.073169671, -0.542569578, 0.0871884301, 0.835478127) * CFrame.new(0,3,0)}):Play()
+TweenService:Create(char.HumanoidRootPart, TweenInfo.new(0.5), {CFrame = CFrame.new(-1259.28015, 640.372925, 609.985413, 0.838676929, 8.62397937e-05, 0.544638395, 0.0474141315, 0.996191859, -0.073169671, -0.542569578, 0.0871884301, 0.835478127) * CFrame.new(0,3,0)}):Play()
 
-wait(3)
+wait(0.5)
 
-TweenService:Create(char.HumanoidRootPart, TweenInfo.new(2), {CFrame = CFrame.new(-1161.34119, 626.110962, 709.259705, 1, 0, 0, 0, 1, 0, 0, 0, 1) * CFrame.new(0,3,0)}):Play()
+TweenService:Create(char.HumanoidRootPart, TweenInfo.new(0.5), {CFrame = CFrame.new(-1161.34119, 626.110962, 709.259705, 1, 0, 0, 0, 1, 0, 0, 0, 1) * CFrame.new(0,3,0)}):Play()
 
-wait(3)
+wait(0.5)
 
-TweenService:Create(char.HumanoidRootPart, TweenInfo.new(2), {CFrame = CFrame.new(-1347.74121, 628.801208, 575.18811, -0.819153011, 0, 0.573580742, 0, 1, 0, -0.573580742, 0, -0.819153011) * CFrame.new(0,3,0)}):Play()
+TweenService:Create(char.HumanoidRootPart, TweenInfo.new(0.5), {CFrame = CFrame.new(-1347.74121, 628.801208, 575.18811, -0.819153011, 0, 0.573580742, 0, 1, 0, -0.573580742, 0, -0.819153011) * CFrame.new(0,3,0)}):Play()
 
-wait(3)
+wait(0.5)
 
-TweenService:Create(char.HumanoidRootPart, TweenInfo.new(2), {CFrame = CFrame.new(-1161.34119, 626.110962, 709.259705, 1, 0, 0, 0, 1, 0, 0, 0, 1) * CFrame.new(0,3,0)}):Play()
+TweenService:Create(char.HumanoidRootPart, TweenInfo.new(0.5), {CFrame = CFrame.new(-1161.34119, 626.110962, 709.259705, 1, 0, 0, 0, 1, 0, 0, 0, 1) * CFrame.new(0,3,0)}):Play()
 
-wait(3)
+wait(0.5)
 
-TweenService:Create(char.HumanoidRootPart, TweenInfo.new(2), {CFrame = CFrame.new(-1168.2002, 628.661072, 615.449585, 0.997572422, 0, 0.0697529912, 0, 1, 0, -0.0697529912, 0, 0.99757) * CFrame.new(0,3,0)}):Play()
+TweenService:Create(char.HumanoidRootPart, TweenInfo.new(0.5), {CFrame = CFrame.new(-1168.2002, 628.661072, 615.449585, 0.997572422, 0, 0.0697529912, 0, 1, 0, -0.0697529912, 0, 0.99757) * CFrame.new(0,3,0)}):Play()
 
-wait(3)
+wait(0.5)
 
-TweenService:Create(char.HumanoidRootPart, TweenInfo.new(2), {CFrame = CFrame.new(-1161.34119, 626.110962, 709.259705, 1, 0, 0, 0, 1, 0, 0, 0, 1) * CFrame.new(0,3,0)}):Play()
+TweenService:Create(char.HumanoidRootPart, TweenInfo.new(0.5), {CFrame = CFrame.new(-1161.34119, 626.110962, 709.259705, 1, 0, 0, 0, 1, 0, 0, 0, 1) * CFrame.new(0,3,0)}):Play()
 
-wait(3)
+wait(0.5)
 
-TweenService:Create(char.HumanoidRootPart, TweenInfo.new(2), {CFrame = CFrame.new(-1146.90283, 630.206604, 585.933655, 0.994523585, 0, -0.104532652, 0, 1, 0, 0.104532652, 0, 0.9945235) * CFrame.new(0,3,0)}):Play()
+TweenService:Create(char.HumanoidRootPart, TweenInfo.new(0.5), {CFrame = CFrame.new(-1146.90283, 630.206604, 585.933655, 0.994523585, 0, -0.104532652, 0, 1, 0, 0.104532652, 0, 0.9945235) * CFrame.new(0,3,0)}):Play()
 
-wait(3)
+wait(0.5)
 
-TweenService:Create(char.HumanoidRootPart, TweenInfo.new(2), {CFrame = CFrame.new(-1161.34119, 626.110962, 709.259705, 1, 0, 0, 0, 1, 0, 0, 0, 1) * CFrame.new(0,3,0)}):Play()
+TweenService:Create(char.HumanoidRootPart, TweenInfo.new(0.5), {CFrame = CFrame.new(-1161.34119, 626.110962, 709.259705, 1, 0, 0, 0, 1, 0, 0, 0, 1) * CFrame.new(0,3,0)}):Play()
 
-wait(3)
+wait(0.5)
 
-TweenService:Create(char.HumanoidRootPart, TweenInfo.new(2), {CFrame = CFrame.new(-1148.17871, 636.017578, 555.540833, -0.913551033, 0, 0.406743795, 0, 1, 0, -0.406743795, 0, -0.913551033) * CFrame.new(0,3,0)}):Play()
+TweenService:Create(char.HumanoidRootPart, TweenInfo.new(0.5), {CFrame = CFrame.new(-1148.17871, 636.017578, 555.540833, -0.913551033, 0, 0.406743795, 0, 1, 0, -0.406743795, 0, -0.913551033) * CFrame.new(0,3,0)}):Play()
 
-wait(3)
+wait(0.5)
 
-TweenService:Create(char.HumanoidRootPart, TweenInfo.new(2), {CFrame = CFrame.new(-1161.34119, 626.110962, 709.259705, 1, 0, 0, 0, 1, 0, 0, 0, 1) * CFrame.new(0,3,0)}):Play()
+TweenService:Create(char.HumanoidRootPart, TweenInfo.new(0.5), {CFrame = CFrame.new(-1161.34119, 626.110962, 709.259705, 1, 0, 0, 0, 1, 0, 0, 0, 1) * CFrame.new(0,3,0)}):Play()
 
-wait(3)
+wait(0.5)
 
-TweenService:Create(char.HumanoidRootPart, TweenInfo.new(2), {CFrame = CFrame.new(-1387.79956, 654.560974, 603.849548, -0.139169067, 0, 0.990269482, 0, 1, 0, -0.990269482, 0, -0.139169067) * CFrame.new(0,3,0)}):Play()
+TweenService:Create(char.HumanoidRootPart, TweenInfo.new(0.5), {CFrame = CFrame.new(-1387.79956, 654.560974, 603.849548, -0.139169067, 0, 0.990269482, 0, 1, 0, -0.990269482, 0, -0.139169067) * CFrame.new(0,3,0)}):Play()
 
-wait(3)
+wait(0.5)
 
-TweenService:Create(char.HumanoidRootPart, TweenInfo.new(2), {CFrame = CFrame.new(-1161.34119, 626.110962, 709.259705, 1, 0, 0, 0, 1, 0, 0, 0, 1) * CFrame.new(0,3,0)}):Play()
+TweenService:Create(char.HumanoidRootPart, TweenInfo.new(0.5), {CFrame = CFrame.new(-1161.34119, 626.110962, 709.259705, 1, 0, 0, 0, 1, 0, 0, 0, 1) * CFrame.new(0,3,0)}):Play()
 
-wait(3)
+wait(0.5)
 
-TweenService:Create(char.HumanoidRootPart, TweenInfo.new(2), {CFrame = CFrame.new(-1098.00098, 628.661072, 702.549683, -0.453987241, 0, 0.89100951, 0, 1, 0, -0.89100951, 0, -0.453987241) * CFrame.new(0,3,0)}):Play()
+TweenService:Create(char.HumanoidRootPart, TweenInfo.new(0.5), {CFrame = CFrame.new(-1098.00098, 628.661072, 702.549683, -0.453987241, 0, 0.89100951, 0, 1, 0, -0.89100951, 0, -0.453987241) * CFrame.new(0,3,0)}):Play()
 
-wait(3)
+wait(0.5)
 
-TweenService:Create(char.HumanoidRootPart, TweenInfo.new(2), {CFrame = CFrame.new(-1161.34119, 626.110962, 709.259705, 1, 0, 0, 0, 1, 0, 0, 0, 1) * CFrame.new(0,3,0)}):Play()
+TweenService:Create(char.HumanoidRootPart, TweenInfo.new(0.5), {CFrame = CFrame.new(-1161.34119, 626.110962, 709.259705, 1, 0, 0, 0, 1, 0, 0, 0, 1) * CFrame.new(0,3,0)}):Play()
 
-wait(3)
+wait(0.5)
 
-TweenService:Create(char.HumanoidRootPart, TweenInfo.new(2), {CFrame = CFrame.new(-1121.30103, 628.661072, 767.649536, -0.819150746, 0, 0.573580801, 0, 1, 0, -0.573580801, 0, -0.819150746) * CFrame.new(0,3,0)}):Play()
+TweenService:Create(char.HumanoidRootPart, TweenInfo.new(0.5), {CFrame = CFrame.new(-1121.30103, 628.661072, 767.649536, -0.819150746, 0, 0.573580801, 0, 1, 0, -0.573580801, 0, -0.819150746) * CFrame.new(0,3,0)}):Play()
 
-wait(3)
+wait(0.5)
 
-TweenService:Create(char.HumanoidRootPart, TweenInfo.new(2), {CFrame = CFrame.new(-1161.34119, 626.110962, 709.259705, 1, 0, 0, 0, 1, 0, 0, 0, 1) * CFrame.new(0,3,0)}):Play()
+TweenService:Create(char.HumanoidRootPart, TweenInfo.new(0.5), {CFrame = CFrame.new(-1161.34119, 626.110962, 709.259705, 1, 0, 0, 0, 1, 0, 0, 0, 1) * CFrame.new(0,3,0)}):Play()
 
-wait(3)
+wait(0.5)
 
-TweenService:Create(char.HumanoidRootPart, TweenInfo.new(2), {CFrame = CFrame.new(-1406.20129, 628.661072, 699.24939, -0.945518672, 0, 0.32557267, 0, 1, 0, -0.32557267, 0, -0.945518672) * CFrame.new(0,3,0)}):Play()
+TweenService:Create(char.HumanoidRootPart, TweenInfo.new(0.5), {CFrame = CFrame.new(-1406.20129, 628.661072, 699.24939, -0.945518672, 0, 0.32557267, 0, 1, 0, -0.32557267, 0, -0.945518672) * CFrame.new(0,3,0)}):Play()
 
-wait(3)
+wait(0.5)
 
-TweenService:Create(char.HumanoidRootPart, TweenInfo.new(2), {CFrame = CFrame.new(-1161.34119, 626.110962, 709.259705, 1, 0, 0, 0, 1, 0, 0, 0, 1) * CFrame.new(0,3,0)}):Play()
+TweenService:Create(char.HumanoidRootPart, TweenInfo.new(0.5), {CFrame = CFrame.new(-1161.34119, 626.110962, 709.259705, 1, 0, 0, 0, 1, 0, 0, 0, 1) * CFrame.new(0,3,0)}):Play()
 
 wait(8.5)
 
-TweenService:Create(char.HumanoidRootPart, TweenInfo.new(2), {CFrame = game:GetService("Workspace").Stages["18"].Hitbox.CFrame * CFrame.new(0,3,0)}):Play()
+TweenService:Create(char.HumanoidRootPart, TweenInfo.new(0.5), {CFrame = game:GetService("Workspace").Stages["18"].Hitbox.CFrame * CFrame.new(0,3,0)}):Play()
 
-wait(3)
+wait(0.5)
 
-TweenService:Create(char.HumanoidRootPart, TweenInfo.new(2), {CFrame = game:GetService("Workspace").Stages["19"].Hitbox.CFrame * CFrame.new(0,50,0)}):Play()
+TweenService:Create(char.HumanoidRootPart, TweenInfo.new(0.5), {CFrame = game:GetService("Workspace").Stages["19"].Hitbox.CFrame * CFrame.new(0,50,0)}):Play()
 
-wait(3)
+wait(0.5)
 
-TweenService:Create(char.HumanoidRootPart, TweenInfo.new(2), {CFrame = game:GetService("Workspace").Stages["19"].Hitbox.CFrame * CFrame.new(0,3,0)}):Play()
+TweenService:Create(char.HumanoidRootPart, TweenInfo.new(0.5), {CFrame = game:GetService("Workspace").Stages["19"].Hitbox.CFrame * CFrame.new(0,3,0)}):Play()
 
-wait(3)
+wait(0.5)
 
 game.Players.LocalPlayer.Character.Humanoid:ChangeState(1)
